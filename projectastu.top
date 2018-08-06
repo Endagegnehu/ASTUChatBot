@@ -20,7 +20,7 @@ concept: ~CE ["chemical engineering" chemical]
 concept: ~MDME ["mechanical design and manufacturing engineering" design manufacturing]
 concept: ~MSE ["material science and engineering" material]
 concept: ~MSVE ["mechanical system and vehicle engineering" vehicle]
-
+concept: ~lounge ["teachers lounge" "student lounge" "central lounge" ""]
 
 topic: ~something keep repeat [~ASTU ~KEREYU ~KULBI ~AMFI ~SOEEC ~SOCEA ~SOMCME ~SOANS ~CSE ~EPCE ~ECE ~COTM ~UPD ~ARCH ~CIVIL ~GEO ~WRE ~TAE ~ CE ~MDME ~MSE ~MSVE]
 
